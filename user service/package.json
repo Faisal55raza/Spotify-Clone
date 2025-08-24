@@ -11,7 +11,7 @@
     "dev": "concurrently \"tsc -w\"  \"nodemon dist/index.js\""
   },
   "keywords": [],
-  "author": "",
+  "author":"Faisal",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.9.2"
